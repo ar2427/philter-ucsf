@@ -223,6 +223,7 @@ class Philter:
             if pattern["type"] == "regex":
                 if pattern["filepath"].split(".")[-1] not in regex_filetypes:
                     raise Exception("Invalid filteype", pattern["filepath"], "must be of", regex_filetypes)
+                print("pattern['filepath'] ::: ", pattern["filepath"])
                 self.patterns[i]["data"] = self.precompile(pattern["filepath"])
             elif pattern["type"] == "regex_context":
                 if pattern["filepath"].split(".")[-1] not in regex_filetypes:
