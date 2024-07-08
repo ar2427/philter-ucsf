@@ -1,0 +1,104 @@
+Reporting process
+
+by ******** ******
+
+Challenge
+
+I received a promotion of being the ******** Controller, along with my actual position of
+
+Country CFO. The main responsibility of this new position was to weekly report the results
+
+for the week and estimate the final results of the month of 4 countries and consolidated
+
+those.
+
+When I was receiving the position, I went to visit my colleague, former ******** Controller,
+
+who was promoted to Country *** and now had interest conflicts of being the controller.
+
+The process to consolidate the information of the 4 countries was that the country controllers
+
+sent him an email with the main figures for the week, he forwarded those to his country
+
+accountant who consolidated it, the accountant sent him the consolidated report and he
+
+finally reported to the headquarters. The whole process took almost a full business day to
+
+complete.
+
+Given that my responsibilities as Country CFO demanded more attention because my
+
+country had more operations, I decided to change the process in order to reduce the
+
+duration and to ensure standardization in the format, and actually, reduce the human
+
+intervention, making that the country controllers work directly in the consolidation file.
+
+Selection
+
+Having in mind that there was a different kind of users of file, I select some of those to
+
+determine what was the main important things to take into account in the moment of the
+
+process of the information and the reading of the same. In that sense, we form a group of
+
+the country controllers, country ****, IT guys, and people from the headquarters to find the
+
+best solutions possible.
+
+Application
+
+For the first lunch, we focused on the consolidation process in order to avoid the copy-paste
+
+processes and reducing the manual intervention so, we build an online application where all
+
+the controllers fill the figure of their respective country, along with the comments. During the
+
+first week of the first stage, we sent the new report along with the old one, and after the
+
+meeting with the headquarters team, we ask for a post-meeting review of the new format, all
+
+the assistants provided their comments and suggestions that were the input for the next
+
+report.
+
+For the second lunch, we focused on the feedback received from the assistants to the review
+
+meeting, we adjust the report and we were able to eliminate the old one. The final report
+
+included all the suggestions received but the best of all is that reduced the time investment
+
+from about 36 men hours to around 8, without missing any valuable information and
+
+including new data that the stakeholders appreciated so much.
+
+Insight
+
+With the application of the learning launch tool, the controllerâ€™s team along with the main
+
+stakeholders identified different assumptions and designed tools to test these assumptions.
+
+On the other hand, we found probable requirements from headquarters, expecting to find
+
+that a more agile approach that improved the workflow, reduced the time investment of
+
+everyone in the team and that both our team and the key stakeholders were very satisfied
+
+with the results of the exercise and the new report.
+
+The final report was slightly different from what we anticipated, but the differences were
+
+more related to form and a few topics to be included in the report.
+
+Approach
+
+Despite that, the team was not used to design thinking tools, they were able to work with the
+
+learning launch that was the appropriate tool. The team needs to review the insight gained
+
+from our first two launches and continuously evaluate this insight and new ones into future
+
+launch designs, especially taking into account that the full automation of the reports will take
+
+at least 4 years more according to the *** implementation plan of the ***********.
+
